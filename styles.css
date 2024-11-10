@@ -1,0 +1,36 @@
+
+header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: blue;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    padding-inline: 50px;
+    font-size: large;
+}
+figcaption {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue; 
+    margin-left: 75px;
+    font-size: 16px;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    padding-left: 50px;
+    font-size: 40px;
+}
+body {
+    background-color: aliceblue;
+    margin: 0px;
+}
+img {
+    border-radius: 10px;
+    border: 5px solid blue;
+}
